@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://iccsw.doc.ic.ac.uk/2014/sitemap.xml

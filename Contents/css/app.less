@@ -1,0 +1,96 @@
+@import "mixins.less";
+@import "variables.less";
+
+/* Override some defaults */
+html,
+body {
+  background-color: #eee;
+}
+
+body { padding-top: 50px; }
+
+.container,
+.navbar-fixed-top .container {
+  width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
+}
+
+.nav > li > a {
+  padding: 15px 10px;
+}
+
+body > .container {
+  background-color: #fff;
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.subhead > a > img {
+  margin-left: -15px;
+}
+
+/* Page header tweaks */
+section > .page-header,
+section > .lead {
+  color: #5a5a5a;
+}
+
+.subhead {
+  padding-bottom: 0;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  margin-bottom: 0;
+
+  h1 {
+    font-size: 26px;
+  }
+}
+
+.mission {
+  margin-top: 2em;
+  text-align: center;
+
+  img {
+    margin-bottom: 2em;
+  }
+  p {
+    color: #5a5a5a;
+    a {
+      color: #5a5a5a;
+      font-weight: bold;
+    }
+  }
+}
+
+/* The white background content wrapper */
+.content {
+  padding: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+
+  .credit {
+    margin: 6px 0;
+  }
+
+  .services {
+    margin: 0 0 32px;
+    li {
+      display: inline-block;
+      a {
+        font-size: 24px;
+      }
+    }
+  }
+
+  .credit {
+    color: #777;
+  }
+}
