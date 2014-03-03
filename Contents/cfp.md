@@ -3,7 +3,9 @@ title: Call for Papers
 template: page.jade
 ---
 
-The third Imperial College Computing Student Workshop (ICCSW) aims to
+The fourth Imperial College Computing Student Workshop (ICCSW) aims to provide an international forum for doctoral students in computing. While most conferences and workshops in academia solely cater for specific research areas, ICCSW encourages doctoral students from all disciplines in computer science to submit papers and take part in the event. It is a workshop organised by students for students. The workshop will be hosted by the Department of Computing at Imperial College London.
+
+The fourth Imperial College Computing Student Workshop (ICCSW) aims to
 provide an international forum for doctoral students in computing. While
 most conferences and workshops in academia solely cater for specific
 research areas, ICCSW encourages doctoral students from all disciplines

@@ -3,14 +3,14 @@ title: FAQ
 template: page.jade
 ---
 
-__How will the proceedings of ICCSW'13 be published?__
+__How will the proceedings of ICCSW'14 be published?__
 
 The proceedings will be published as an open-access volume in the
 [OpenAccess Series in Informatics
 (OASIcs)](http://www.dagstuhl.de/en/publications/oasics) published by [Schloss Dagstuhl](http://www.dagstuhl.de/en/).
 
 __What rights will I retain as an author after publishing my paper at
-ICCSW'13?__
+ICCSW'14?__
 
 All articles published in OASIcs are licensed under a Creative Commons
 licence. This allows for the original authors to retain the copyright of
@@ -27,7 +27,9 @@ published elsewhere?__
 There are a number of accepted submissions that are not truly "original
 work" (e.g., they have been previously presented in a longer format at a
 previous conference/workshop or accepted in a journal). If you paper is
-one of these submissions, we ask that you kindly revise your manuscript
+one of these submissions, we ask that you to submit an extra 1-2 pages
+document to describes the differences between the two submissions.
+In addition, we also ask that you kindly revise your manuscript
 in the following way: please use ``\footnote{...}`` to add a
 footnote to your title. Please include text similar to the following:
 
