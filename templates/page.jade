@@ -3,4 +3,4 @@ extends layout
 block content
   header.page-header
     h1= page.title
-  !{ typogr(page.html).typogrify() }
+  != typogr(page.html).typogrify()
