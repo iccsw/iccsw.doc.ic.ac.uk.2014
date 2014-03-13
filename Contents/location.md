@@ -7,13 +7,16 @@ template: page.jade
 
 The workshop will be hosted at the Department of Computing located
 inside the South Kensington Campus at Imperial College London, 180
-Queen's Gate, London SW7 2AZ. The workshop programme will take place in
+Queen's Gate, London SW7 2AZ.
+<!--
+The workshop programme will take place in
 [Lecture Theatre
 311](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley). Breaks will be held on the corridors in front of the lecture theatre and lunch will be served in [Room 344](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley).
+-->
 
 <iframe width="640" height="320" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
-src="https://maps.google.com/maps/ms?msa=0&amp;msid=208969794587665890130.0004c70ae4537961a4915&amp;ie=UTF8&amp;t=m&amp;ll=51.498732,-0.179461&amp;spn=0.002137,0.006866&amp;z=17&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=208969794587665890130.0004c70ae4537961a4915&amp;ie=UTF8&amp;t=m&amp;ll=51.498732,-0.179461&amp;spn=0.002137,0.006866&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">ICCSW'12</a> in a larger map</small>
+src="https://maps.google.com/maps/ms?msa=0&amp;msid=208969794587665890130.0004c70ae4537961a4915&amp;ie=UTF8&amp;t=m&amp;ll=51.498732,-0.179461&amp;spn=0.002137,0.006866&amp;z=17&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=208969794587665890130.0004c70ae4537961a4915&amp;ie=UTF8&amp;t=m&amp;ll=51.498732,-0.179461&amp;spn=0.002137,0.006866&amp;z=17&amp;source=embed" style="color:#0000FF;text-align:left">ICCSW'14</a> in a larger map</small>
 
 Located in the center of London, South Kensignton Campus is well served
 by a public transport.
