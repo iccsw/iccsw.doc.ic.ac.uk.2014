@@ -33,6 +33,7 @@ template: page.jade
 * Shaswar Baban, King's Collge of London
 * Stefan Ellmauthaler, Leipzig University
 * Matthew Forshaw, Newcastle University
+* Jesus Omana Iglesias, University College Dublin
 * Tiago Oliveira, University of Minho
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
