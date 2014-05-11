@@ -29,6 +29,10 @@ template: page.jade
 
 ## Ambassadors
 
-Interested in being a 2014 Imperial College Computing Student Workshop
-ambassador at your institution? Please contact
-[iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk).
+* Khulood Alyahya, University of Birmingham
+* Shaswar Baban, King's Collge of London
+* Stefan Ellmauthaler, Leipzig University
+* Matthew Forshaw, Newcastle University
+* Tiago Oliveira, University of Minho
+* Agnieszka Zbrzezny, University of Czestochowa
+* Huanzhou Zhu, University of Warwick
