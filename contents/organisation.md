@@ -37,3 +37,8 @@ template: page.jade
 * Tiago Oliveira, University of Minho
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
+
+Interested in being a 2014 Imperial College Computing Student Workshop
+ambassador at your institution? Please contact
+[iccsw@imperial.ac.uk](mailto:iccsw@imperial.ac.uk).
+
