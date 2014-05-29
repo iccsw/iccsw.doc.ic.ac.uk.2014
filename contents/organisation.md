@@ -29,12 +29,25 @@ template: page.jade
 
 ## Ambassadors
 
+
 * Khulood Alyahya, University of Birmingham
+* Joao Amaral, University of Lisbon
 * Shaswar Baban, King's Collge of London
+* Gabriel Barata, University of Lisbon
+* Tarek Besold, University of Osnabrueck
+* Dana Codreanu, University of Toulouse
+* Benoit Desouter, University of Ghent
 * Stefan Ellmauthaler, Leipzig University
 * Matthew Forshaw, Newcastle University
+* Johannes Fichte, TU Wien
 * Jesus Omana Iglesias, University College Dublin
+* Federico Mancinelli, UCL
 * Tiago Oliveira, University of Minho
+* Marco Paolieri, University of Florence
+* Alireza Pourranjbar, University of Edinburgh
+* Zohreh Shams, University of Bath
+* Christof Spanring, University of Liverpool
+* Hu Xu, University of Dundee
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
 
