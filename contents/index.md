@@ -40,6 +40,13 @@ of Computing at Imperial College London, London, United Kingdom.
 </a>
 </div>
 
+### Bronze Sponsors
+<div class="row" style="text-align: center;">
+<a href="http://www.arm.com/">
+  <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="ARM"/>
+</a>
+</div>
+
 ### Supporters
 <div class="row" style="text-align: center;">
 <a href="http://www.imperial.ac.uk/">
