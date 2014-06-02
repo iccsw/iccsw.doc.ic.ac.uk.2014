@@ -41,11 +41,11 @@ Page limits:
 * 5 pages for tool papers, excluding references
 
 
-The main criterion for evaluating the submissions will be originality. Papers based on previous published work will be considered only if they include a description of changes from the published paper. More details about the submission process will be announced later.
+The main criterion for evaluating the submissions will be originality. Papers based on previous published work will be considered only if they include a description of changes from the published paper. Submission of papers and posters should be done via EasyChair at http://www.easychair.org/conferences/?conf=iccsw14.
 
 For each submitted paper, the authors will be required to review approximately two or three papers, not necessarily related to the topic of their immediate expertise. To ensure reviews are objective and meet academic standards the steering committee will look at all reviews prior to their release.
-
-All accepted technical, survey and tools papers of ICCSW’14 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl ([OASIcs format](http://www.doc.ic.ac.uk/~cn06/f/iccsw14-authors.tgz)
+ 
+All accepted technical, survey and tools papers of ICCSW’14 will be published in the OpenAccess Series in Informatics (OASIcs) by Schloss Dagstuhl ([OASIcs format](http://iccsw.doc.ic.ac.uk/2014/iccsw14-authors.tgz)
 ). It is expected that one of the paper authors will attend the conference and present their work. Electronic copies of the proceedings will be made available for all participants at the time of the workshop.
 
 ### Registration and Travel Bursaries
