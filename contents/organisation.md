@@ -36,18 +36,27 @@ template: page.jade
 * Shaswar Baban, King's Collge of London
 * Gabriel Barata, University of Lisbon
 * Tarek Besold, University of Osnabrueck
+* Tzu-Chun Chen, University of Turin
 * Dana Codreanu, University of Toulouse
 * Benoit Desouter, University of Ghent
 * Stefan Ellmauthaler, Leipzig University
 * Matthew Forshaw, Newcastle University
 * Johannes Fichte, TU Wien
+* Randy Goebel, University of Alberta
+* Evgenios Hadjisoteriou, University of Cyprus
+* Wilhelm Kleiminger, ETH Zurich
 * Jesus Omana Iglesias, University College Dublin
+* Chong-U Lim, MIT
 * Federico Mancinelli, UCL
+* Amin Mobasheri, Heidelberg University
 * Tiago Oliveira, University of Minho
 * Marco Paolieri, University of Florence
 * Alireza Pourranjbar, University of Edinburgh
+* Ken Satoh, National Institute of Informatics
+* Peter Schüller, Marmara University Istanbul
 * Zohreh Shams, University of Bath
 * Christof Spanring, University of Liverpool
+* Raoul-Gabriel Urma, Cambridge
 * Hu Xu, University of Dundee
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
