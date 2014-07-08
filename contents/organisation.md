@@ -42,15 +42,19 @@ template: page.jade
 * Matthew Forshaw, Newcastle University
 * Johannes Fichte, TU Wien
 * Jesus Omana Iglesias, University College Dublin
-* Federico Mancinelli, UCL
+* Wilhelm Kleiminger, ETH Zurich
+* Chong-U Lim, Massachusetts Institute of Technology
+* Federico Mancinelli, University College London
 * Tiago Oliveira, University of Minho
 * Marco Paolieri, University of Florence
+* Marco Patrignani, University of Leuven
 * Alireza Pourranjbar, University of Edinburgh
 * Zohreh Shams, University of Bath
 * Christof Spanring, University of Liverpool
 * Hu Xu, University of Dundee
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
+* Maciej Zielenkiewicz, University of Warsaw
 
 Interested in being a 2014 Imperial College Computing Student Workshop
 ambassador at your institution? Please contact
