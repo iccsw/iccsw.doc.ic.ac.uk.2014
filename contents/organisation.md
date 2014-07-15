@@ -46,7 +46,6 @@ template: page.jade
 * Evgenios Hadjisoteriou, University of Cyprus
 * Wilhelm Kleiminger, ETH Zurich
 * Jesus Omana Iglesias, University College Dublin
-* Wilhelm Kleiminger, ETH Zurich
 * Chong-U Lim, Massachusetts Institute of Technology
 * Federico Mancinelli, University College London
 * Amin Mobasheri, Heidelberg University
