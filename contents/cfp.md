@@ -29,9 +29,9 @@ Areas of interest for the workshop cover all fields of research in computer scie
 
 * Abstracts due: **Friday, July 11, 2014, 23:59:59 BST**
 * Paper submission due: **Friday, July 18, 2014, 23:59:59 BST**
-* Reviews due: **Friday, July 25, 2014, 23:59:59 BST**
-* Acceptance notification: **Wednesday, July 30, 2014**
-* Final papers due: **Friday, August 15, 2014**
+* Reviews due: **Friday, August 8, 2014, 23:59:59 BST**
+* Acceptance notification: **Wednesday, August 13, 2014**
+* Final papers due: **Friday, August 29, 2014**
 
 ### Submission
 
