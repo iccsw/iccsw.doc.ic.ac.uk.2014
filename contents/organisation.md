@@ -46,11 +46,13 @@ template: page.jade
 * Evgenios Hadjisoteriou, University of Cyprus
 * Wilhelm Kleiminger, ETH Zurich
 * Jesus Omana Iglesias, University College Dublin
-* Chong-U Lim, MIT
-* Federico Mancinelli, UCL
+* Wilhelm Kleiminger, ETH Zurich
+* Chong-U Lim, Massachusetts Institute of Technology
+* Federico Mancinelli, University College London
 * Amin Mobasheri, Heidelberg University
 * Tiago Oliveira, University of Minho
 * Marco Paolieri, University of Florence
+* Marco Patrignani, University of Leuven
 * Alireza Pourranjbar, University of Edinburgh
 * Ken Satoh, National Institute of Informatics
 * Peter Schüller, Marmara University Istanbul
@@ -60,6 +62,7 @@ template: page.jade
 * Hu Xu, University of Dundee
 * Agnieszka Zbrzezny, University of Czestochowa
 * Huanzhou Zhu, University of Warwick
+* Maciej Zielenkiewicz, University of Warsaw
 
 Interested in being a 2014 Imperial College Computing Student Workshop
 ambassador at your institution? Please contact
