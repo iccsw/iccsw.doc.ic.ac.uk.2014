@@ -50,7 +50,7 @@ __9:30am - 10:30pm__: Session 3 (Session chair: TBA)
 
 __10:30am - 11:00am__: Coffee break
 
-__11:00am - 12:30pm__: Session 4 (Session chair: TBA)
+__11:00am - 12:30pm__: Session 4 (Session chair: Dr. Thomas Grocutt from ARM)
 
 * __Ethel Bardsley__: Everything you know is lies: The amazing time traveling CPU, and other horrors of concurrency (Survey track)
 * __Evgenij Belikov__: History-Based Adaptive Work Distribution (Traditional track)
