@@ -21,7 +21,7 @@ __11:30am - 1:00pm__: Session 1 (Session chair: TBA)
 
 __1:00pm - 2:00pm__: Lunch break
 
-__2:00pm - 3:00pm__: Keynote (Session Chair: TBA)
+__2:00pm - 3:00pm__: Keynote (Session Chair: Feryal Mehraban Pour Behbahani)
 
 * __Shane Legg__: Google DeepMind
 
