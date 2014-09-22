@@ -11,7 +11,7 @@ __9:45am - 11:00am__: Welcome talk + Gone in 60 Seconds (Session chair: Claudia 
 
 __11:00am - 11:30am__: Coffee break
 
-__11:30am - 1:00pm__: Session 1 (Session chair: Dan Liew)
+__11:30am - 1:00pm__: Session 1 (Session chair: Bertan Kavuncu)
 
 * __Romain Franceschini, Paul-Antoine Bisgambiglia, Luc Touraille, Paul Bisgambiglia and David Hill__: A survey of modelling and simulation software frameworks using Discrete Event System Specification (Survey track)
 * __Jörg Pührer__: Towards a Programming Paradigm for Artificial Intelligence Applications Based On Simulation (Traditional track)
