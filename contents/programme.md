@@ -7,13 +7,11 @@ template: page.jade
 
 __9:00am - 9:30am__: Registration
 
-__9:30am - 10:00am__: Welcome and opening talk
-
-__10:00am - 11:00am__: Welcome from committee + Gone in 60 Seconds
+__9:45am - 11:00am__: Welcome talk + Gone in 60 Seconds (Session chair: Claudia Schulz)
 
 __11:00am - 11:30am__: Coffee break
 
-__11:30am - 1:00pm__: Session 1 (Session chair: TBA)
+__11:30am - 1:00pm__: Session 1 (Session chair: Dan Liew)
 
 * __Romain Franceschini, Paul-Antoine Bisgambiglia, Luc Touraille, Paul Bisgambiglia and David Hill__: A survey of modelling and simulation software frameworks using Discrete Event System Specification (Survey track)
 * __Jörg Pührer__: Towards a Programming Paradigm for Artificial Intelligence Applications Based On Simulation (Traditional track)
@@ -27,7 +25,7 @@ __2:00pm - 3:00pm__: Keynote (Session Chair: Feryal Mehraban Pour Behbahani)
 
 __3:00pm - 3:30pm__: Coffee break
 
-__3:30pm - 4:30pm__: Session 2 (Session chair: TBA)
+__3:30pm - 4:30pm__: Session 2 (Session chair: Nicholas Ng)
 
 * __Juliana Franco, Sophia Drossopoulou and Nobuko Yoshida__: STS: communication costs with Sessions Types & Sizes (Traditional track)
 * __Christof Spanring__: Axiom of Choice, Maximal Independent Sets, Argumentation and Dialogue Games (Survey track)
@@ -43,7 +41,7 @@ __7:30pm - 10:00pm__: [Anglesea Arms] pub in South Kensington
 
 __9:00am - 9:30am__: Registration
 
-__9:30am - 10:30pm__: Session 3 (Session chair: TBA)
+__9:30am - 10:30pm__: Session 3 (Session chair: Calin-Rares Turliuc)
 
 * __Andrew Cropper__: Identifying and inferring objects from textual descriptions of scenes from books (Traditional track)
 * __Lei Shi__: Defining and Evaluating Learner Experience for Social Adaptive E-Learning (Traditional track)
@@ -58,18 +56,18 @@ __11:00am - 12:30pm__: Session 4 (Session chair: Dr. Thomas Grocutt from ARM)
 
 __12:30pm - 1:30pm__: Lunch break
 
-__1:30pm - 2:30pm__: Session 5 (Session chair: TBA)
+__1:30pm - 2:30pm__: Session 5 (Session chair: Nicholas Ng)
 
 * __Jakub Daniel and Pavel Parízek__: Predicate Abstraction in Program Verification: Survey and Current Trends (Survey track)
 * __Maciej Skorski__: On Recent Advances in Key Derivation by the Leftover Hash Lemma (Traditional track)
 
 __2:30pm - 3:00pm__: Coffee break
 
-__3:00pm - 4:00pm__: Keynote (Seesion Chair: TBA)
+__3:00pm - 4:00pm__: Keynote (Seesion Chair: Rumyana Neykova)
 
 * __Philip Wadler__: You and Your Research and the Elements of Style 
 
-__4:00pm - 4:30pm__: Prize giving and Closing (Session chair: TBA)
+__4:00pm - 4:30pm__: Prize giving and Closing (Session chair: Claudia Schulz)
 
 [Philip Wadler]: http://homepages.inf.ed.ac.uk/wadler/
 [Anglesea Arms]: http://www.metropolitanpubcompany.com/our-pubs/the-anglesea-arms/
