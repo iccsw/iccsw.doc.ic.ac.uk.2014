@@ -32,9 +32,9 @@ __3:30pm - 4:30pm__: Session 2 (Session chair: TBA)
 * __Juliana Franco, Sophia Drossopoulou and Nobuko Yoshida__: STS: communication costs with Sessions Types & Sizes (Traditional track)
 * __Christof Spanring__: Axiom of Choice, Maximal Independent Sets, Argumentation and Dialogue Games (Survey track)
 
-__4:30pm - 7:00pm__: Free Time
+__5:00pm - 7:00pm__: [The View from the Shard] (Entry window for the building is 5:30 - 6:00)
 
-__7:00pm - 10:00pm__: Social event
+__7:30pm - 10:00pm__: [Anglesea Arms] pub in South Kensington
 
 
 
@@ -72,3 +72,5 @@ __3:00pm - 4:00pm__: Keynote (Seesion Chair: TBA)
 __4:00pm - 4:30pm__: Prize giving and Closing (Session chair: TBA)
 
 [Philip Wadler]: http://homepages.inf.ed.ac.uk/wadler/
+[Anglesea Arms]: http://www.metropolitanpubcompany.com/our-pubs/the-anglesea-arms/
+[The View from the Shard]: http://www.theviewfromtheshard.com/en/
