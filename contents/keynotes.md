@@ -13,7 +13,7 @@ is Professor of Theoretical Computer Science at the University of Edinburgh. He 
 
 * * *
 
-## From academia to industry: The story of Google DeepMind
+## From Academia to Industry: The Story of Google DeepMind
 ### Shane Legg, Google DeepMind
 
 Summary: Shane Legg left academia to cofound DeepMind Technologies in 2010, along with Demis Hassabis and Mustafa Suleyman.  Their vision was to bring together cutting edge machine learning and systems neuroscience in order to create artificial agents with general intelligence.  Following investments from a number of famous technology entrepreneurs, including Peter Thiel and Elon Musk, they assembled a team of world class researchers with backgrounds in systems neuroscience, deep learning, reinforcement learning and Bayesian statistics.  In early 2014 DeepMind made international business headlines after it was acquired by Google.  In this talk Shane will cover some of the history behind DeepMind, his experience making the transition from academia to industry, how Google DeepMind performs research and finally some demos of the artificial agents that are under development.

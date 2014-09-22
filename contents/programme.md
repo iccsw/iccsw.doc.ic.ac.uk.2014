@@ -23,7 +23,11 @@ __1:00pm - 2:00pm__: Lunch break
 
 __2:00pm - 3:00pm__: Keynote (Session Chair: Feryal Mehraban Pour Behbahani)
 
+<<<<<<< HEAD
 * __Shane Legg__: From academia to industry: The story of Google DeepMind
+=======
+* __Shane Legg__: From Academia to Industry: The story of Google DeepMind (TBC)
+>>>>>>> 8d3efc8166f4cb178553539eb4f0117323f3161c
 
 __3:00pm - 3:30pm__: Coffee break
 
