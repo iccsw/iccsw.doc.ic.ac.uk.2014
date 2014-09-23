@@ -7,12 +7,16 @@ template: page.jade
 
 The workshop will be hosted at the Department of Computing located
 inside the South Kensington Campus at Imperial College London, 180
-Queen's Gate, London SW7 2AZ.
-<!--
-The workshop programme will take place in
-[Lecture Theatre
-311](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley). Breaks will be held on the corridors in front of the lecture theatre and lunch will be served in [Room 344](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley).
--->
+Queen's Gate, London SW7 2AZ and at the Department of Physics which
+is located close by.
+
+* Registration and Coffee/lunch breaks will be held on the [concourse on level 3 in the Huxley building (Department of Computing)](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley).
+
+* The workshop sessions will take place in
+[Lecture Theatre 2 in the Blackett building (Department of Physics)](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/blackettbuilding).
+Please note that the Huxley and Blackett buildings are connected so it is
+easiest to get into the Blackett building starting from Huxley building.
+Signs will be posted to make the route clear.
 
 <iframe width="640" height="320" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
