@@ -12,7 +12,7 @@ is located close by.
 
 * Registration and Coffee/lunch breaks will be held on the [concourse on level 3 in the Huxley building (Department of Computing)](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley).
 
-* The workshop sessions will take place in
+* The workshop sessions and keynotes will take place in
 [Lecture Theatre 2 in the Blackett building (Department of Physics)](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/blackettbuilding).
 Please note that the Huxley and Blackett buildings are connected so it is
 easiest to get into the Blackett building starting from Huxley building.
