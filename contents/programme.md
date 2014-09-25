@@ -12,11 +12,13 @@ Please note that the Huxley and Blackett buildings are connected so it is
 easiest to get into the Blackett building starting from Huxley building.
 Signs will be posted to make the route clear.
 
+* More details about the WIFI setup, Social Event arrangement, and proceeding schedule can be found in in the Welcome talk's [Slides].
+
 ## Thursday, September 25th, 2014
 
 __9:00am - 9:30am__: Registration
 
-__9:45am - 11:00am__: Welcome talk + Gone in 60 Seconds (Session chair: Claudia Schulz)
+__9:45am - 11:00am__: Welcome talk + Gone in 60 Seconds (Session chair: Claudia Schulz) ([Slides])
 
 __11:00am - 11:30am__: Coffee break
 
@@ -39,9 +41,9 @@ __3:30pm - 4:30pm__: Session 2 (Session chair: Nicholas Ng)
 * __Juliana Franco, Sophia Drossopoulou and Nobuko Yoshida__: STS: communication costs with Sessions Types & Sizes (Traditional track)
 * __Christof Spanring__: Axiom of Choice, Maximal Independent Sets, Argumentation and Dialogue Games (Survey track)
 
-__5:00pm - 7:00pm__: [The View from the Shard] (Entry window for the building is 5:30 - 6:00)
+__5:00pm - 7:00pm__: [The View from the Shard] (Entry window for the building is 5:30 - 6:00) - Note: Ticket Needed.
 
-__7:30pm - 10:00pm__: [Anglesea Arms] pub in South Kensington
+__7:30pm - 10:00pm__: [Anglesea Arms] pub in South Kensington - Note: Ticket Needed.
 
 
 
@@ -81,3 +83,4 @@ __4:00pm - 4:30pm__: Prize giving and Closing (Session chair: Claudia Schulz)
 [Philip Wadler]: http://homepages.inf.ed.ac.uk/wadler/
 [Anglesea Arms]: http://www.metropolitanpubcompany.com/our-pubs/the-anglesea-arms/
 [The View from the Shard]: http://www.theviewfromtheshard.com/en/
+[Slides]: http://www.doc.ic.ac.uk/~lm111/articles/WelcomeTalk.pdf
