@@ -76,7 +76,7 @@ __2:30pm - 3:00pm__: Coffee break
 
 __3:00pm - 4:00pm__: Keynote (Seesion Chair: Rumyana Neykova)
 
-* __Philip Wadler__: You and Your Research and the Elements of Style 
+* __Philip Wadler__: You and Your Research and the Elements of Style ([video](https://www.youtube.com/watch?v=RqjqUBJGqMY))
 
 __4:00pm - 4:30pm__: Prize giving and Closing (Session chair: Claudia Schulz)
 
