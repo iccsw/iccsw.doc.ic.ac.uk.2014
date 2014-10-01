@@ -33,6 +33,12 @@ covering their ongoing research. The fourth edition of the workshop will
 span two days and will be held September 25—26, 2014, at the Department
 of Computing at Imperial College London, London, United Kingdom.
 
+### Prize Winners
+
+* Best paper: **Quoc-Sang Phan** - Symbolic Execution as DPLL Modulo Theories
+* Best presentation: **Jörg Pührer** - Towards a Programming Paradigm for Artificial Intelligence Applications Based On Simulation
+* Best reviewer: **Evgenij Belikov**
+
 ### Platinum Sponsors
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
