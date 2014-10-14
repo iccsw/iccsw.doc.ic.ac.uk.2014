@@ -33,6 +33,10 @@ covering their ongoing research. The fourth edition of the workshop will
 span two days and will be held September 25—26, 2014, at the Department
 of Computing at Imperial College London, London, United Kingdom.
 
+The proceedings are published as an [OpenAccess Series in
+Informatics](http://www.dagstuhl.de/en/publications/oasics)
+volume, [OASICS Vol. 43](http://drops.dagstuhl.de/portals/oasics/index.php?semnr=14011).
+
 ### Prize Winners
 
 * Best paper: **Quoc-Sang Phan** - Symbolic Execution as DPLL Modulo Theories
